@@ -25,23 +25,22 @@ Product designer
 - Настраиваемые цветовые схемы
 - Гибкие компоненты заточенные под текущий продукт
 
-[Подробнее](https://www.notion.so/Submarine-e7ebb0aa26d546e88c8fc73f2b345fff?pvs=21)
-![[Pasted image 20241216170614.png]]
+![image](https://github.com/user-attachments/assets/8de6a0df-f274-4c73-9ba3-28a6fade0298)
+
 ---
 
 Создавалось как концепт для реализации в LeadFrog
 
-[Подробнее](https://www.notion.so/467dcac187724136ac2a81547e66dd0e?pvs=21)
 
-![Frame 488866.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/558c9248-1e44-44fd-8cf9-b61b573a2685/Frame_488866.jpg)
+![image](https://github.com/user-attachments/assets/f0304e16-1e5e-4440-a401-248cec385be4)
+
 
 ---
 
 Мобильное приложение которое используется на выставках для сбора контактов
 
-[Подробнее](https://www.notion.so/LeadFrog-app-425708c96e4645f8944c1b92a0114319?pvs=21)
+![image](https://github.com/user-attachments/assets/56835a0b-5f00-4c22-b3cd-3f6545c049ed)
 
-![Frame 488868.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8604dcb8-d92a-441b-9a7f-38175c16902f/Frame_488868.png)
 
 ---
 
@@ -49,9 +48,18 @@ Product designer
 
 ## Опыт работы
 
+[**Positive technologies**] ([https://www.ptsecurity.com/]), Февраль 2024 - Настоящее время
+_Product designer, UI/UX designer_
+**Обязанности:**
+Проектирую интерфейс для NGFW
+Создал и поддерживаю обслуживающую дизайн систему
+
+**Достижения:**
+Внедрил новую навигацию
+
 ---
 
-[**infotecs**](https://infotecs.ru/), Февраль 2023 - Настоящее время
+[**infotecs**](https://infotecs.ru/), Декабрь 2023 - Февраль 2024
 
 _Product designer, UI/UX designer_
 
@@ -87,7 +95,7 @@ _Product designer, UI/UX designer_
 
 ---
 
-[**Leadfrog**](https://leadfrog.ru/), Август 2020 - Февраль 2023
+[**Leadfrog**](https://leadfrog.ru/), Август 2020 - Декабрь 2023
 
 _Product designer, UI/UX designer_
 
